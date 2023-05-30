@@ -10,7 +10,7 @@ We will also discuss the challenges and opportunities that come with implementin
 
 By reading this book, you will gain a comprehensive understanding of the business of artificial intelligence and how it is changing the face of modern commerce. Whether you're an entrepreneur, business leader, or simply interested in the latest technology trends, this book will provide valuable insights and strategies for success in the age of AI.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
