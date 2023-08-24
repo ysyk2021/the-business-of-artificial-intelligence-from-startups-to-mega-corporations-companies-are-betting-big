@@ -1,5 +1,3 @@
-Chapter 6: Future of AI and Business
-====================================
 
 AI is rapidly evolving, and its impact on business will continue to grow in the coming years. In this chapter, we will explore some of the emerging trends and potential developments that will shape the future of AI in business.
 

@@ -1,5 +1,3 @@
-Automation of Routine Tasks
-===========================================================================
 
 Artificial Intelligence (AI) is transforming the business landscape, with companies using intelligent technologies to automate routine tasks and improve operational efficiency. In this chapter, we will explore the impact of AI on business operations, specifically the automation of routine tasks.
 

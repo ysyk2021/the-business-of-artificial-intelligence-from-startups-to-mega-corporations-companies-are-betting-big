@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial Intelligence (AI) is an umbrella term that encompasses a wide range of technologies and approaches. In this chapter, we will explore the different types of AI, their strengths and weaknesses, and their applications.
 

@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial Intelligence (AI) is a rapidly growing field that is having a significant impact on businesses across industries. To understand the current state of AI in business, it's essential to have a grasp of the background and fundamentals of this technology. In this chapter, we will explore the history of artificial intelligence, types of AI, and machine learning techniques.
 

@@ -1,5 +1,3 @@
-Chapter 7: Case Studies of AI in Business
-=========================================
 
 Artificial intelligence (AI) is being adopted by companies across various industries to drive innovation and improve efficiency. In this chapter, we will explore several case studies of successful implementations of AI in different industries.
 

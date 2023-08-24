@@ -1,5 +1,3 @@
-Chapter 3: Current State of AI in Business
-==========================================
 
 AI is already being used by businesses in many ways, from chatbots to fraud detection. In this chapter, we will explore some examples of AI applications today and trends in AI adoption in businesses.
 

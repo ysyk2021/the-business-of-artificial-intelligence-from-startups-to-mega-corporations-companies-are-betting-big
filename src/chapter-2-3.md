@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving field that is transforming the way businesses operate. In this chapter, we will explore the fundamental concepts of AI, with a focus on machine learning techniques.
 

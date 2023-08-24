@@ -1,5 +1,3 @@
-Chapter 4: Impact of AI on Business Operations
-==============================================
 
 AI is transforming the way businesses operate, providing new ways to automate tasks, improve efficiency, and create new business models. In this chapter, we will explore some of the ways that AI is impacting business operations.
 
