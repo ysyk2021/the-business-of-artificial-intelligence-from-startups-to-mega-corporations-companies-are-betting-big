@@ -1,5 +1,4 @@
-Chapter: Creation of New Business Models
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter explores the creation of new business models spurred by advancements in artificial intelligence (AI). It delves into the ways AI is reshaping traditional industries and paving the way for innovative approaches to conducting business.
 

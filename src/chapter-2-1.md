@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter explores the rich history and evolution of artificial intelligence (AI). It traces the origins of AI, highlights key milestones, and discusses the breakthroughs and challenges that have shaped the field.
 

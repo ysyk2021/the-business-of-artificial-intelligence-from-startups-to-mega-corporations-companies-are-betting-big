@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter explores the legal framework surrounding artificial intelligence (AI) technologies. It delves into the legal considerations, challenges, and regulations that businesses must navigate to ensure ethical and responsible use of AI.
 

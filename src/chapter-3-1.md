@@ -1,5 +1,4 @@
-Chapter: Examples of AI Applications Today
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a variety of real-world examples that demonstrate the breadth and depth of AI applications across industries. These examples highlight how startups, small and medium-sized enterprises (SMEs), and mega corporations are leveraging intelligent technologies to drive innovation, improve efficiency, and enhance customer experiences.
 

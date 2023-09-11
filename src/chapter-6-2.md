@@ -1,5 +1,4 @@
-Chapter: Predictions for the Future of AI in Business
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter explores predictions for the future of AI in business. It examines the potential impact of artificial intelligence (AI) technologies across various industries and highlights key trends that are likely to shape the business landscape in the coming years.
 

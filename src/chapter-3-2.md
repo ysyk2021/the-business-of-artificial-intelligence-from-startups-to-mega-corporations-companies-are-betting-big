@@ -1,5 +1,4 @@
-Chapter: Trends in AI Adoption in Businesses
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter explores the trends and patterns in the adoption of artificial intelligence (AI) technologies by businesses. It examines the various industries and sectors where AI is making significant impacts and highlights key factors driving the widespread adoption of AI.
 

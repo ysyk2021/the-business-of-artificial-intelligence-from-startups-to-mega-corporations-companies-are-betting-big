@@ -1,5 +1,4 @@
-Chapter: Machine Learning Techniques
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter explores the diverse range of machine learning techniques that are driving the advancements in artificial intelligence (AI) today. It delves into the fundamentals of machine learning and highlights key algorithms and approaches used in various applications.
 

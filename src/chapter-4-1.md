@@ -1,5 +1,4 @@
-Chapter: Automation of Routine Tasks
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter examines the automation of routine tasks through the use of artificial intelligence (AI) technologies. It explores how businesses can leverage AI to automate repetitive processes, freeing up human resources for more complex and creative endeavors.
 

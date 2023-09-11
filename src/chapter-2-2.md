@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies," this chapter explores the different types of artificial intelligence (AI) and their applications in various industries. It provides an overview of the major categories of AI systems, highlighting their capabilities and potential impact on businesses.
 

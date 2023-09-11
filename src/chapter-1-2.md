@@ -1,5 +1,4 @@
-Chapter: Purpose of the Book
-============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The purpose of this book is to provide a comprehensive overview of the business implications and opportunities surrounding artificial intelligence (AI) technologies. "The Business of Artificial Intelligence: From Startups to Mega Corporations, Companies Are Betting Big on Intelligent Technologies" aims to equip readers with the knowledge and insights needed to navigate the ever-evolving landscape of AI and make informed decisions regarding its integration into their organizations.
 
